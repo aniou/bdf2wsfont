@@ -1,5 +1,5 @@
 # bdf2wsfont
-ad hoc BSD to wscons font converter
+ad hoc .bdf to wscons .h files font converter
 
 Sample usage:
 ```
